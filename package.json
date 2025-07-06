@@ -24,6 +24,7 @@
     "mutationobserver-shim": "^0.3.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-hook-form": "^7.60.0",
     "react-router-dom": "^6.21.2"
   },
   "devDependencies": {
